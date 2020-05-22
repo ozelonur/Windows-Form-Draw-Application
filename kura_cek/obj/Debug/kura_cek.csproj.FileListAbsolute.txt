@@ -1,0 +1,10 @@
+C:\Users\Onur ÖZEL\Desktop\Makaleler\Eğitimler\Atölye\C# Form App Kura Uygulaması\kura_cek\kura_cek\bin\Debug\kura_cek.exe.config
+C:\Users\Onur ÖZEL\Desktop\Makaleler\Eğitimler\Atölye\C# Form App Kura Uygulaması\kura_cek\kura_cek\bin\Debug\kura_cek.exe
+C:\Users\Onur ÖZEL\Desktop\Makaleler\Eğitimler\Atölye\C# Form App Kura Uygulaması\kura_cek\kura_cek\bin\Debug\kura_cek.pdb
+C:\Users\Onur ÖZEL\Desktop\Makaleler\Eğitimler\Atölye\C# Form App Kura Uygulaması\kura_cek\kura_cek\obj\Debug\kura_cek.csprojAssemblyReference.cache
+C:\Users\Onur ÖZEL\Desktop\Makaleler\Eğitimler\Atölye\C# Form App Kura Uygulaması\kura_cek\kura_cek\obj\Debug\kura_cek.Form1.resources
+C:\Users\Onur ÖZEL\Desktop\Makaleler\Eğitimler\Atölye\C# Form App Kura Uygulaması\kura_cek\kura_cek\obj\Debug\kura_cek.Properties.Resources.resources
+C:\Users\Onur ÖZEL\Desktop\Makaleler\Eğitimler\Atölye\C# Form App Kura Uygulaması\kura_cek\kura_cek\obj\Debug\kura_cek.csproj.GenerateResource.cache
+C:\Users\Onur ÖZEL\Desktop\Makaleler\Eğitimler\Atölye\C# Form App Kura Uygulaması\kura_cek\kura_cek\obj\Debug\kura_cek.csproj.CoreCompileInputs.cache
+C:\Users\Onur ÖZEL\Desktop\Makaleler\Eğitimler\Atölye\C# Form App Kura Uygulaması\kura_cek\kura_cek\obj\Debug\kura_cek.exe
+C:\Users\Onur ÖZEL\Desktop\Makaleler\Eğitimler\Atölye\C# Form App Kura Uygulaması\kura_cek\kura_cek\obj\Debug\kura_cek.pdb
